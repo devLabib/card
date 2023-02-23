@@ -1,0 +1,23 @@
+.box1{
+    border-radius: 10px;
+    background-color: aliceblue;
+    box-shadow: 2px 2px 2px gray;
+    width: 500px;
+}
+img{
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+    width: 100%;
+}
+.butt{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    border-radius: 20px;
+    background-color: grey;
+    margin-bottom: 20px;
+    align-items: center;
+    border: none;
+
+}
